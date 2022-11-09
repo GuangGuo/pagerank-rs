@@ -1,4 +1,4 @@
-# A Rust PageRank Implementation Example
+# A Simple Rust PageRank Implementation Example
 
 Just inplement [louridas/pagerank](https://github.com/louridas/pagerank) cpp part in Rust.
 
